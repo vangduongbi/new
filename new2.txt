@@ -1,3 +1,5 @@
 test shh key
 add default list
 add api upgrade
+commit just first txt
+
