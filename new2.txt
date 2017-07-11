@@ -1,2 +1,3 @@
 test shh key
 add default list
+add api upgrade
